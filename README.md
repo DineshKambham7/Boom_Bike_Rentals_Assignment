@@ -40,10 +40,13 @@
 
 
 ## Technologies Used
-- Python
-- Numpy
-- Pandas
-- Matplotlib
-- Seaborn
-- sklearn
-- statsmodels
+- Python - 3.10.4
+- Numpy - 1.22.3
+- Pandas - 1.4.2
+- Matplotlib - 3.5.2
+- Seaborn - 0.11.2
+- sklearn - 0.23.2
+- statsmodels - 0.12.0
+
+## Contact
+Created by @DineshKambham7
